@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Tutoring application</string>
+
+    <string name="splash_title">Tutoring App</string>
+
+    <string name="login_title">Login</string>
+    <string name="register_title">Create account</string>
+    <string name="hint_email">email@eduvos.com</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_full_name">Name and last name</string>
+    <string name="hint_confirm_password">Confirm password</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_register">Register</string>
+    <string name="no_account">No account?\u0020</string>
+    <string name="register_here">Register here</string>
+
+    <string name="tutorials_title">Tutorials</string>
+    <string name="tutorial_1">Tutorial 1: Getting Started</string>
+    <string name="tutorial_2">Tutorial 2: Building Screens</string>
+    <string name="tutorial_3">Tutorial 3: Finishing Up</string>
+    <string name="greeting">Welcome, %1$s</string>
+    <string name="btn_logout">Log out</string>
+
+    <string name="account_created">Account created. Please log in.</string>
+    <string name="error_name">Enter your name (at least 2 characters)</string>
+    <string name="error_email">Enter a valid email address</string>
+    <string name="error_email_taken">An account with this email already exists</string>
+    <string name="error_password_required">Enter your password</string>
+    <string name="error_password_rules">Use at least 8 characters, including a letter and a number</string>
+    <string name="error_password_mismatch">Passwords do not match</string>
+    <string name="error_login_failed">Incorrect email or password</string>
+    <string name="videos_not_included">Tutorial videos are not included in this repository. Add tutorial1.mp4 to tutorial3.mp4 to app/src/main/res/raw/ to enable them.</string>
+</resources>
